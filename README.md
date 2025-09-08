@@ -5,7 +5,7 @@ Asp.Net MVC3 hospital management system (HMS) is a computer or web based system 
 
 In any hospital generally requires to manage the patient’s records, doctors, nurses and other staff records, medicines stock and availability, ward availability, bed availability as well financial activities. To perform these activities require different user rights for access the relevant sections in the software and not all the system, For example when Hospital admin login into system they have rights to access the all sections of system while any doctor login into system then they can access only patient management, medicine management related module. Same thing applies for other types of users of the system. Asp.Net MVC3 Hospital Management provides all these facilities to create different types of user’s management and perform activities using single website. HMS website designed such a way that it can be used by single hospital or group of multiple hospitals. There are different types of user can create in the system and assign particular role for the system. Hospital admin can create different users like Doctors, Nurses, Pharmacist, Laboratorist and Accounts. They also can see all the activities performed by users which created by them. This system helps to keep track of the growing volume of data and at the same time eases in accessing the information as and when required.
 
-<img src="https://www.aspscriptsonline.com/wp-content/uploads/2018/05/simplify-hospital-1.png">
+<img src="https://www.aspscriptsonline.com/frontend/assets/templates/1738381582_53b38b91218935080967.webp">
 
 <b>Asp.Net MVC3 Hospital Management has the following key features:</b>
 
@@ -47,5 +47,15 @@ In any hospital generally requires to manage the patient’s records, doctors, n
 <li>Eliminate operational losses and control financial mishaps</li>
 <li>Strong MIS reporting and lucrative reports</li>
 </ul>
-<b>More details and download link:</b><br>
-<b>https://www.aspscriptsonline.com/product/simplify-hospital/</b>
+
+More details and download script
+https://www.aspscriptsonline.com/product/asp.net-mvc3-hospital-management-software
+
+If you're looking for readymade php scripts
+https://www.phpscriptsonline.com/products
+
+If you're looking for readymade ASP.Net, C# software source code
+https://www.aspscriptsonline.com/products
+
+If you're looking for digital marketing services, insights, AI-powered strategies.
+https://www.coderobotics.com/blog
